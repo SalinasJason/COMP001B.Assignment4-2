@@ -24,7 +24,11 @@ a:focus, a:hover {
 }
 
 body {
-
+	font-family: Arial, sans-serif; 
+	line-height: 1.5; 
+	background-color: #f9f9f9; 
+	color: #333; 
+	padding: 20px;
 }
 
 code {
@@ -60,7 +64,7 @@ main {
 p {
 	font-size: 20px;
 	margin-left: 1em;
-	line-height: 130%;
+	margin-bottom: 1em;
 }
 
 #intro {
